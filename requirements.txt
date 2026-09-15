@@ -1,6 +1,6 @@
 streamlit
 PyPDF2
-transformers
+transformers==4.55.4
 torch
 torchvision
 sentencepiece
